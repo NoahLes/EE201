@@ -1,7 +1,7 @@
 # Hi my name is Noah
 
 Some of my Hobbies include:
-Climbing
-Video Games
-Swimming
+Climbing,
+Video Games,
+Swimming,
 Cars

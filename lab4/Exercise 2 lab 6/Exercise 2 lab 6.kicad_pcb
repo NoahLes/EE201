@@ -537,7 +537,7 @@
   (gr_circle (center 83.82 55.88) (end 83.82 53.34) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 0a997bb8-1364-4560-baee-24408585a9fd))
   (gr_circle (center 83.82 119.38) (end 83.82 116.84) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 57ff8f45-76ab-418f-8365-746822c191e9))
   (gr_rect (start 76.2 48.26) (end 160.02 129.54) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 7da0563a-05fe-4359-89de-31f0124a9b22))
-  (gr_circle (center 152.4 121.92) (end 155.992102 121.92) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp d189eb1b-e973-4390-920a-feadafff6278))
+  (gr_circle (center 152.4 121.92) (end 154.94 124.46) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp d189eb1b-e973-4390-920a-feadafff6278))
   (gr_circle (center 152.4 55.88) (end 152.4 58.42) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp d96c3081-742a-49a8-9573-e58c3c3f2b96))
   (gr_text "EE201 Lab 6" (at 93.98 127) (layer "Edge.Cuts") (tstamp d453bdfb-a0bd-4f09-a32f-cd2b846aa304)
     (effects (font (size 2 3) (thickness 0.15)))

@@ -40,7 +40,7 @@
   (setup
     (pad_to_mask_clearance 0)
     (pcbplotparams
-      (layerselection 0x00010fc_ffffffff)
+      (layerselection 0x00010e0_ffffffff)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -68,9 +68,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "./")
     )
   )
 
@@ -137,7 +137,7 @@
     (fp_line (start 3.95 2.8) (end 3.95 -1.7) (layer "F.Fab") (width 0.1) (tstamp b969373b-b84e-4f05-b14a-c0714649595a))
     (fp_line (start -1.95 -1.7) (end -1.95 2.8) (layer "F.Fab") (width 0.1) (tstamp bf140b24-4e3a-4d61-b942-642bc6be453f))
     (fp_line (start -1.11 -2.11) (end -2.36 -2.11) (layer "F.Fab") (width 0.1) (tstamp c400451d-3dee-4e2c-9ea3-1ca543493f6f))
-    (pad "1" thru_hole roundrect (at 0 0) (size 1.2 1.75) (drill 0.75) (layers *.Cu *.Mask) (roundrect_rratio 0.208333)
+    (pad "1" thru_hole roundrect (at 0 0) (size 1.2 1.75) (drill 0.75) (layers *.Cu *.Mask) (roundrect_rratio 0.2083333333)
       (net 5 "Net-(R2-Pad2)") (pinfunction "Pin_1") (pintype "passive") (tstamp 5d708584-bdfe-4b29-8979-f75873c3f609))
     (pad "2" thru_hole oval (at 2 0) (size 1.2 1.75) (drill 0.75) (layers *.Cu *.Mask)
       (net 2 "Net-(C1-Pad2)") (pinfunction "Pin_2") (pintype "passive") (tstamp 6fc4d8eb-17b5-4f49-b1cc-de00bb2ff1d8))
